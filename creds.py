@@ -1,2 +1,2 @@
-email = hacker@gmail.com
-password = lol1337@
+EMAIL = EASY@yahoo.com
+PASSWORD = SIMPLE
