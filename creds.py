@@ -1,2 +1,1 @@
-EMAIL = EASY@yahoo.com
-PASSWORD = SIMPLE
+
